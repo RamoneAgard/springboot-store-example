@@ -17,8 +17,8 @@ export function About(props){
                 the purposes of this example, data is stored in a H2 in-memory database, product data is added to this database on startup,
                 and image urls are served from and open source image api. The products displayed are simple examples of possible 3D printed
                 items with options of the type of plactic to print with and the colors associated with those plastics. The React project uses react-router-dom
-                and react-bootstrap, while the spring-boot project integrates with the Stripe maven dependecy. To run this project locally, a Stripe
-                account is needed, and the provied private key would need to be added to the application.properties file, as well as the webhook secret
+                and react-bootstrap, while the spring-boot project integrates with the Stripe maven dependency. To run this project locally, a Stripe
+                account is needed, and the provided private key would need to be added to the application.properties file, as well as the webhook secret
                 for confirming checkout sessions. This example web store was created with the goal to demonstrate functionality over complete visual polish.
                 I created this example project as a means to show case a possible data flow for a small web store, and I wanted to incorporate my
                 love of 3D printing into the topic.
